@@ -1,0 +1,5 @@
+C:\Users\Hello\source\repos\ProductInspection\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+C:\Users\Hello\source\repos\ProductInspection\Database\obj\Debug\netcoreapp3.1\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hello\source\repos\ProductInspection\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\Hello\source\repos\ProductInspection\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\Hello\source\repos\ProductInspection\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache

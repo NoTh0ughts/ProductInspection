@@ -1,0 +1,7 @@
+C:\Users\Hello\source\repos\ProductInspection\Data\obj\Debug\net4.8\Data.csproj.AssemblyReference.cache
+C:\Users\Hello\source\repos\ProductInspection\Data\obj\Debug\net4.8\Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hello\source\repos\ProductInspection\Data\obj\Debug\net4.8\Data.dll.config
+C:\Users\Hello\source\repos\ProductInspection\Data\obj\Debug\net4.8\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hello\source\repos\ProductInspection\Data\obj\Debug\net4.8\Data.AssemblyInfoInputs.cache
+C:\Users\Hello\source\repos\ProductInspection\Data\obj\Debug\net4.8\Data.AssemblyInfo.cs
+C:\Users\Hello\source\repos\ProductInspection\Data\obj\Debug\net4.8\Data.csproj.CoreCompileInputs.cache
